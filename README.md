@@ -7,5 +7,7 @@
   <h3>GIF do projeto funcionando</h3>
   <img src="./pixels.gif" />
 </div>
-
-<p>Disponível neste <a href="https://color-palette-leonardo.vercel.app/">link</a>
+<div>
+  <h2>Deploy</h2>
+  <a>Disponível neste <a href="https://color-palette-leonardo.vercel.app/" target="_blank">link</a>
+</div>
